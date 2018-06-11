@@ -1,9 +1,9 @@
 /* Select the image with a class of kitty-1 */
 
-.kitty-1
+.kitty-1{
   position: absolute;
   z-index: 1;
-  top: 276px;
+  top: 600px;
   left: 129px;
 }
 
